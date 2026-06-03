@@ -1,0 +1,6 @@
+{
+  "name": "Random Acts of Consciousness",
+  "description": "A minimalist, typography-focused site for the Random Acts of Consciousness movement, featuring a light-mode aesthetic and 3D animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
